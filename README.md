@@ -2,9 +2,11 @@
 
 I'm Abdibaset!
 
-- 🔭 I’m currently working on an image processing technique to quanitying rate of diffusion of a biological agent.
-- 🌱 I’m currently learning web dev with Angular, and writing LateX docs.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdibaset-bare/).
+- 🔭 I’m currently working on an image processing technique to quantify the diffusion rate of a biological agent.
+- 🌱 Currently learning web development with Angular and writing LaTeX documents.
+- 👻 I have a keen interest in biology, backend infrastructure development, and the intersection of medicine and software development.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdibaset-bare/).
+
 
 <div align="center">
 
