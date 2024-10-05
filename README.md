@@ -10,5 +10,5 @@ I'm Abdibaset!
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibaset&hide=VHDL,Verilog,Jupyter+Notebook,Rich+Text+Format&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdibaset&hide=VHDL,Verilog,Jupyter+Notebook,Rich+Text+Format,Stata,Forth,Tcl&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
